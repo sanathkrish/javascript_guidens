@@ -1,0 +1,362 @@
+WEBVTT
+
+1
+00:00:00.436 --> 00:00:04.191
+<v ->Hello, and welcome to The Complete JavaScript Course.</v>
+
+2
+00:00:04.191 --> 00:00:05.678
+Thank you for signing up
+
+3
+00:00:05.678 --> 00:00:08.431
+and for becoming a part of this course.
+
+4
+00:00:08.431 --> 00:00:12.443
+This is your course, I designed and built it just for you.
+
+5
+00:00:12.443 --> 00:00:15.388
+So, after months of planning, researching,
+
+6
+00:00:15.388 --> 00:00:18.766
+filming, and perfecting every aspect of the course,
+
+7
+00:00:18.766 --> 00:00:21.980
+this is the best product that I've ever created.
+
+8
+00:00:21.980 --> 00:00:23.870
+And I really hope that it shows
+
+9
+00:00:23.870 --> 00:00:27.184
+and that you're gonna enjoy every minute of it.
+
+10
+00:00:27.184 --> 00:00:31.209
+So, why JavaScript and not something else?
+
+11
+00:00:31.209 --> 00:00:33.178
+And that's actually an easy answer,
+
+12
+00:00:33.178 --> 00:00:36.057
+because today JavaScript is really the language
+
+13
+00:00:36.057 --> 00:00:38.739
+that powers the entire internet.
+
+14
+00:00:38.739 --> 00:00:41.660
+It allows developers to add complex dynamics
+
+15
+00:00:41.660 --> 00:00:43.765
+to websites and web apps,
+
+16
+00:00:43.765 --> 00:00:45.326
+and it also allows us to use
+
+17
+00:00:45.326 --> 00:00:46.963
+all of these popular frameworks,
+
+18
+00:00:46.963 --> 00:00:49.778
+like React, Angular, and Node.js,
+
+19
+00:00:49.778 --> 00:00:53.127
+to build even more advanced web applications.
+
+20
+00:00:53.127 --> 00:00:55.490
+Now, all of this requires a deep
+
+21
+00:00:55.490 --> 00:00:59.048
+and true knowledge of the JavaScript language.
+
+22
+00:00:59.048 --> 00:01:00.976
+But the problem is that many times
+
+23
+00:01:00.976 --> 00:01:04.599
+JavaScript can be really confusing and hard to learn.
+
+24
+00:01:04.599 --> 00:01:07.878
+And that's why I decided that I had to build this course,
+
+25
+00:01:07.878 --> 00:01:10.278
+which is the course that I wish that I had
+
+26
+00:01:10.278 --> 00:01:12.248
+when I first learned JavaScript,
+
+27
+00:01:12.248 --> 00:01:14.860
+to help you take your web development career
+
+28
+00:01:14.860 --> 00:01:17.045
+to the next level.
+
+29
+00:01:17.045 --> 00:01:19.584
+So this really is a complete course.
+
+30
+00:01:19.584 --> 00:01:21.495
+We go all the way from the basics
+
+31
+00:01:21.495 --> 00:01:24.598
+to the theory and really advanced stuff,
+
+32
+00:01:24.598 --> 00:01:28.284
+and we're also gonna build two real-world beautiful apps
+
+33
+00:01:28.284 --> 00:01:30.528
+that you're gonna be really proud of.
+
+34
+00:01:30.528 --> 00:01:33.809
+So let's now see what we're gonna talk about in this course.
+
+35
+00:01:33.809 --> 00:01:35.463
+So, we're gonna kick off the course
+
+36
+00:01:35.463 --> 00:01:38.119
+with the very basics of the JavaScript language
+
+37
+00:01:38.119 --> 00:01:40.067
+and of programming in general.
+
+38
+00:01:40.067 --> 00:01:41.997
+So that you gain a very good foundation
+
+39
+00:01:41.997 --> 00:01:43.848
+for the rest of the course.
+
+40
+00:01:43.848 --> 00:01:46.379
+After that, we're gonna take a look
+
+41
+00:01:46.379 --> 00:01:48.787
+behind the scenes of the JavaScript language,
+
+42
+00:01:48.787 --> 00:01:52.198
+so that you learn how JavaScript actually works.
+
+43
+00:01:52.198 --> 00:01:55.069
+And this is gonna be a good blend of theory
+
+44
+00:01:55.069 --> 00:01:58.525
+and practical lectures that I designed specifically
+
+45
+00:01:58.525 --> 00:02:00.475
+so that you can gain the knowledge
+
+46
+00:02:00.475 --> 00:02:04.351
+that many JavaScript beginners out there simply don't have.
+
+47
+00:02:04.351 --> 00:02:07.633
+So this is gonna be a very important section.
+
+48
+00:02:07.633 --> 00:02:10.117
+We then move on to our very first project,
+
+49
+00:02:10.117 --> 00:02:12.374
+where we're gonna use JavaScript in the browser
+
+50
+00:02:12.374 --> 00:02:14.799
+for the very first time.
+
+51
+00:02:14.799 --> 00:02:17.431
+So we're gonna code up this very cool game
+
+52
+00:02:17.431 --> 00:02:19.906
+where we make JavaScript actually interact
+
+53
+00:02:19.906 --> 00:02:21.863
+with an HTML webpage.
+
+54
+00:02:21.863 --> 00:02:23.926
+Really cool, right?
+
+55
+00:02:23.926 --> 00:02:26.873
+Okay, and after that, we're gonna take a deep dive
+
+56
+00:02:26.873 --> 00:02:30.146
+into some of the most advanced features of the language,
+
+57
+00:02:30.146 --> 00:02:32.907
+which is objects and functions.
+
+58
+00:02:32.907 --> 00:02:34.931
+So we're gonna talk about advanced stuff
+
+59
+00:02:34.931 --> 00:02:38.199
+like prototype inheritance, first-class functions,
+
+60
+00:02:38.199 --> 00:02:41.309
+and closures, and also a lot more.
+
+61
+00:02:41.309 --> 00:02:44.165
+And finally our biggest real-world project,
+
+62
+00:02:44.165 --> 00:02:46.511
+where everything that we learn up until that point
+
+63
+00:02:46.511 --> 00:02:50.285
+comes together and starts making even more sense.
+
+64
+00:02:50.285 --> 00:02:52.481
+So we're gonna code this beautiful budget app
+
+65
+00:02:52.481 --> 00:02:55.104
+where you can track incomes and expenses
+
+66
+00:02:55.104 --> 00:02:58.198
+and calculate the global budget for a month.
+
+67
+00:02:58.198 --> 00:03:00.039
+So, really cool again.
+
+68
+00:03:00.039 --> 00:03:01.082
+And you're still gonna learn
+
+69
+00:03:01.082 --> 00:03:02.991
+lots of new stuff in this project,
+
+70
+00:03:02.991 --> 00:03:05.429
+like how to structure and organize your code
+
+71
+00:03:05.429 --> 00:03:09.856
+and how to actually think about problems and solutions.
+
+72
+00:03:09.856 --> 00:03:11.148
+So this is really the coolest
+
+73
+00:03:11.148 --> 00:03:13.472
+and biggest part of the course.
+
+74
+00:03:13.472 --> 00:03:15.903
+Okay, and finally we're gonna move on
+
+75
+00:03:15.903 --> 00:03:18.701
+to the new, modern version of JavaScript,
+
+76
+00:03:18.701 --> 00:03:23.144
+which is ES6, or ES2015, so that you're always up to date
+
+77
+00:03:23.144 --> 00:03:25.638
+with your JavaScript skills.
+
+78
+00:03:25.638 --> 00:03:27.996
+And so in this section, we're gonna take a look
+
+79
+00:03:27.996 --> 00:03:30.284
+at some of new features of the language,
+
+80
+00:03:30.284 --> 00:03:33.600
+and also see some practical applications.
+
+81
+00:03:33.600 --> 00:03:37.321
+Okay, and that's what we're gonna cover in this course.
+
+82
+00:03:37.321 --> 00:03:40.182
+And I also included some coding challenges for you,
+
+83
+00:03:40.182 --> 00:03:43.746
+so that you can immediately practice what you learn.
+
+84
+00:03:43.746 --> 00:03:45.061
+And to make this even better,
+
+85
+00:03:45.061 --> 00:03:47.903
+I also included a 30-question exam
+
+86
+00:03:47.903 --> 00:03:50.038
+for you to test out your knowledge
+
+87
+00:03:50.038 --> 00:03:52.799
+that you gained from this course.
+
+88
+00:03:52.799 --> 00:03:55.113
+And now I hope that you have a lot of fun with this course
+
+89
+00:03:55.113 --> 00:03:58.189
+and that you're really gonna become a better web developer.
+
+90
+00:03:58.189 --> 00:04:01.939
+So, without further ado, let's dive right in.
+
